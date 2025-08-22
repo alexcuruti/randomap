@@ -131,7 +131,7 @@ We will now use Terraform to build our infrastructure. This is a three-step proc
     ```
     Type `yes` to approve. Wait for it to finish (it will end with an error).
 
-2.  **Run the CI/CD Pipeline:** Now, push your code to GitHub to trigger the pipeline. This will build your Docker image and push it to the ECR repository that was just created.
+2.  **Run the CI/CD Pipeline:** Now, push your code  to GitHub to trigger the pipeline. This will build your Docker image and push it to the ECR repository that was just created.
     ```
     git add .
     git commit -m "Initial commit to trigger CI/CD"
