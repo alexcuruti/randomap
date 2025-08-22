@@ -56,7 +56,7 @@ This is the command-line tool for interacting with your AWS account.
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
-```
+``` 
 #### 1.4. Install Terraform
 This is the tool we'll use for Infrastructure as Code.
 
